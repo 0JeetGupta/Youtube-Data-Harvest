@@ -1,3 +1,4 @@
+#before initializing the code install "pip install google-api-python-client" in the terminal
 import googleapiclient.discovery
 from pprint import pprint
 import streamlit as st
