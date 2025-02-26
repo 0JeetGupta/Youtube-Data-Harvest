@@ -7,7 +7,7 @@ from pprint import pprint  # For pretty-printing data structures
 import googleapiclient.discovery
 
 # Set up API credentials
-api_key = 'AIzaSyAh_ajCgEPccQR1DgsateTWWmYbXLAcYIY'
+api_key = 'YOUR_API'
 api_service_name = "youtube"
 api_version = "v3"
 
